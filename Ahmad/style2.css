@@ -1,0 +1,39 @@
+body {
+  background-image: url(../tt.jpg);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: cover;
+}
+.first-text1 {
+  width: 80%;
+  color: white;
+  margin-top: 20px;
+  margin-left: 15%;
+  font-size: 35px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: bold;
+}
+.down {
+  margin-left: 120px;
+  width: 30%;
+}
+.up {
+  width: 30%;
+  margin-left: 180px;
+}
+.buttons1 {
+  display: flex;
+  margin-left: 200px;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+.buttons1 > button {
+  font-size: 20px;
+  color: white;
+  background-color: red;
+  height: 30px;
+  width: 200px;
+}
+.btn2 {
+  margin-right: 200px;
+}
