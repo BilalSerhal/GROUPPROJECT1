@@ -1,0 +1,39 @@
+body{
+    background-image:url(tt.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+.first-text {
+    width: 80%;
+    color: white;
+    margin-top: 20px;
+    margin-left: 15%;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+.bed{
+    margin-left: 600px;
+    width: 30%;
+}
+.buttons1{
+    margin-left: 630px;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.buttons1>button{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    height: 40px;
+    width: 250px;
+}
+
+.index3-p{
+    font-size: 150px;
+    color: white;
+    margin-left: 25%;
+    margin-top: 20%;
+   
+}
