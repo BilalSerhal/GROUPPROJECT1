@@ -1,0 +1,43 @@
+
+    body {
+        background-image: url("backg.jpg");
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: 30%;
+       background-position-y: 50px;
+      }
+     
+
+      .p{
+        margin-left: 830px;
+        font-size: 30px;
+        color:white;
+        margin-top: 90px;
+      }
+
+      .p1{ margin-left: 775px;
+        font-size: 30px;
+    font-weight: bold;}
+
+    .button {
+        padding: 15px 25px;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: black;
+        background-color: yellow;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px black;
+       margin-left: 850px;
+       margin-top: 30px;
+      }
+      
+      .button:hover {background-color: orange}
+      
+      .button:active {
+        background-color: orange;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
