@@ -1,0 +1,15 @@
+body {
+  background-image: url(/congratsphoto.png);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: cover;
+}
+.first-text {
+  width: 80%;
+  color: white;
+  margin-top: 300px;
+  margin-left: 30%;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: bold;
+}
