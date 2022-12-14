@@ -1,5 +1,5 @@
 body {
-  background-image: url(../tt.jpg);
+  background-image: url(tt.jpg);
   background-repeat: no-repeat;
   background-position-x: center;
   background-size: cover;
@@ -23,7 +23,7 @@ body {
 }
 .buttons1 {
   display: flex;
-  margin-left: 200px;
+  margin-left: 300px;
   margin-top: 10px;
   justify-content: space-between;
 }
@@ -35,5 +35,5 @@ body {
   width: 200px;
 }
 .btn2 {
-  margin-right: 200px;
+  margin-right: 600px;
 }
